@@ -21,3 +21,15 @@ This project analyzes e-commerce sales data using Python, Pandas, Machine Learni
 
 ## Author
 Anurag Tripathi
+## Project Insights
+
+- Identified top-performing product categories
+- Analyzed regional sales trends
+- Forecasted future sales using Machine Learning
+- Visualized business KPIs with charts
+
+## Future Improvements
+
+- Power BI Dashboard
+- SQL Integration
+- Streamlit Deployment
